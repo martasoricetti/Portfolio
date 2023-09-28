@@ -8,7 +8,7 @@ This is the repository containing all my projects, that I have mainly created fo
 </ul>
 <h1>Academic Year 2021/22</h1>
 <ul>
-  <li><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046">Data Science</a>, prof. Silvio Peroni - <a href="https://github.com/martasoricetti/data_science_project"> Project repository</a>(work in progress)</li>
+  <li><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046">Data Science</a>, prof. Silvio Peroni - <a href="https://github.com/martasoricetti/my_little_python">old version of the project</a>, <a href="https://github.com/martasoricetti/data_science_project"> Project repository</a>(work in progress)</li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/454470">Interaction Media Design</a>, prof. Sofia Pescarin and Simona Caraceni - <a href="https://github.com/TalkWithMorandiExperience/talkwithMorandi">Project Repository</a>, <a href="https://talkwithmorandiexperience.github.io/talkwithMorandi/">website</a></li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/454464">Information Modelling and Web Technologies</a>, prof. Tiziana Mancinelli - <a href="https://github.com/martasoricetti/the_florios">Project repository</a>, <a href="https://martasoricetti.github.io/the_florios/">website</a></li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/454463">Knowledge Representation and Extraction</a>, prof. Andrea Giovanni Nuzzolese and Aldo Gangemi - <a href="https://github.com/SongsTOPoems/STOP">Project repository</a>, <a href="https://songstopoems.github.io/STOP/">website</a></li>
