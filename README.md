@@ -2,7 +2,7 @@
 This is the repository containing all my projects, that I have mainly created for the <a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge">Digital Humanities and  Digital Knowledge Master's Degree</a> of the University of Bologna. <br>
 <h1>Academic Year 2022/23</h1>
 <ul>
-  <li>Thesis: a new <a href="https://opencitations.net/">OpenCitations</a> index - work in progress</li>
+  <li>Thesis: a new <a href="https://opencitations.net/">OpenCitations</a> index - <a href="https://github.com/martasoricetti/oc_ds_converter">work in progress</a></li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/443753">Open Science</a>, prof. Silvio Peroni - <a href="https://github.com/open-sci/2022-2023-pika-py-code">Project repository</a>, <a href="https://github.com/open-sci/2022-2023/blob/112e5ae35f8a890e4fc2ae8ff3b116085bc2369f/docs/Pika.py/material.md"> all the project materials</a></li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467048">Network Analysis</a>, prof. Saverio Giallorenzo - <a href="https://github.com/NetworkAnalysisP/NAP">Project repository</a></li>
 </ul>
